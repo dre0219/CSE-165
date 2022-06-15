@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>enemy_Alien.png</file>
+        <file>player_Ship.png</file>
+        <file>projectile.png</file>
+        <file>background.png</file>
+        <file>background2.gif</file>
+    </qresource>
+    <qresource prefix="/Sounds"/>
+    <qresource prefix="/Sound"/>
+    <qresource prefix="/sound"/>
+</RCC>
